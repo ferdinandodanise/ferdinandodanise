@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Frontend Developer 😍 iOS Development Lover ❤️ Angular Enthusiast 😎 Apple Developer Academy Graduate 👨🏻‍💻
+
 <!--
 **ferdinandodanise/ferdinandodanise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
