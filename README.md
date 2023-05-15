@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Frontend Developer 😍 iOS Development Lover ❤️ Angular Enthusiast 😎 Apple Developer Academy Graduate 👨🏻‍💻
+I'm Ferdinando a Frontend Developer 😍 iOS Development Lover ❤️ Angular Enthusiast 😎 Apple Developer Academy Graduated 👨🏻‍💻
 
 <!--
 **ferdinandodanise/ferdinandodanise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
